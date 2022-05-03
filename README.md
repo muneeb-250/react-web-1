@@ -1,2 +1,3 @@
 # react-web-1
-Created with CodeSandbox
+## Very first project using React and Styled Components
+#### Created in CodeSandBox
