@@ -21,17 +21,17 @@ const Navbar = () => {
 };
 
 const Menu = styled.ul`
-display: flex;
-list-style:none;
+  display: flex;
+  list-style: none;
 `;
 const MenuItem = styled.li`
-margin-right: 30px;
-font-size: 20px;
-font-weight: bold;
-color:gray;
+  margin-right: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: gray;
 `;
 const Container = styled.div`
-  height: 50px;
+  height: 80px;
 `;
 const Logo = styled.h1`
   font-weight: bold;
@@ -40,7 +40,7 @@ const Logo = styled.h1`
 `;
 const Wrapper = styled.div`
   padding: 10px 20px;
-  align-items:center;
+  align-items: center;
   display: flex;
   justify-content: space-between;
 `;
@@ -48,11 +48,11 @@ const Left = styled.div`
   width: 60%;
   display: flex;
   align-items: center;
-  justify-content:space-between;
+  justify-content: space-between;
 `;
 const PrimaryBtn = styled.button`
   outline: none;
-  border:none;
+  border: none;
   border: 2px solid white;
   border-radius: 10px;
   padding: 10px 15px;
