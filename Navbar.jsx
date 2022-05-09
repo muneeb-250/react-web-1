@@ -26,15 +26,16 @@ const Menu = styled.ul`
 `;
 const MenuItem = styled.li`
   margin-right: 30px;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: bold;
   color: gray;
 `;
 const Container = styled.div`
   height: 80px;
 `;
-const Logo = styled.h1`
+const Logo = styled.h3`
   font-weight: bold;
+  font-size: 20px;
   font-family: "Poppins";
   color: crimson;
 `;
